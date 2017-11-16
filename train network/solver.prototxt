@@ -1,0 +1,15 @@
+net: "examples/test_yale/train_val.prototxt"
+test_iter: 24
+test_interval: 90
+base_lr: 0.001
+lr_policy: "step"
+gamma: 0.4
+stepsize: 4000
+display: 20
+iter_size: 1
+max_iter: 80000
+momentum: 0.7
+weight_decay: 0.0005
+snapshot: 80000
+snapshot_prefix: "examples/test_yale/snapshot/yale_caffenet_100_200_40g"
+solver_mode: GPU
