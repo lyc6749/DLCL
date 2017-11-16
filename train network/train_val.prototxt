@@ -1,4 +1,4 @@
-name: "CaffeNet"
+name: "Multi-label"
 layer {
   name: "data"
   type: "MultilabelImageData"
