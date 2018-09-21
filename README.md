@@ -10,4 +10,5 @@ Based on the caffe toolbox, we organize the source files as follows:
 The databases used in the proposed scheme are extended Yale Face Database B and PIE, the samples of the databases are as following:
 
 ![Image](https://github.com/lyc6749/DLCL/blob/master/image/samples.jpg)
-
+# More info
+- **Contact**: Please send comments to Lingying Chen (chenly@whut.edu.cn)
