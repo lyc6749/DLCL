@@ -3,6 +3,7 @@ The scourse code of the paper "Face Template Protection Using Deep LDPC Codes Le
 # Database
 The databases used in the proposed scheme are extended Yale Face Database B and PIE, the samples of the databases are as following:
 
+![Image](https://github.com/lyc6749/DLCL/blob/master/image/samples.jpg)
 # File structure
 Based on the caffe toolbox, we organize the source files as follows:
 - `testing/network/`: Network architecture which we used for testing.
