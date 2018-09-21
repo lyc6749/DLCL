@@ -7,7 +7,8 @@ Based on the caffe toolbox, we organize the source files as follows:
 - `train network/`: The train network architecture on the database.
 - `image/`: The images of the samples.
 # Database
-The databases used in the proposed scheme are extended Yale Face Database B and PIE, the samples of the databases are as following:
+The databases used in the proposed scheme are extended Yale Face Database B and PIE, the samples of the databases and the 
+corresponding preprocessed outputs are as following:
 
 ![Image](https://github.com/lyc6749/DLCL/blob/master/image/samples1.jpg)
 # More info
