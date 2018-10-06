@@ -17,5 +17,7 @@ corresponding preprocessed outputs are as following:
 ![Image](https://github.com/lyc6749/DLCL/blob/master/image/samples.jpg)
 # Results
 We show the ROC curves on PIE and extened Yale B here.
+![Image](https://github.com/lyc6749/DLCL/blob/master/image/PIE_ROC.jpg)
+![Image](https://github.com/lyc6749/DLCL/blob/master/image/Yale_ROC.jpg)
 # More info
 - **Contact**: Please send comments to Lingying Chen (chenly@whut.edu.cn)
