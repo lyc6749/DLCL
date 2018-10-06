@@ -15,5 +15,7 @@ The databases used in the proposed scheme are extended Yale Face Database B and 
 corresponding preprocessed outputs are as following:
 
 ![Image](https://github.com/lyc6749/DLCL/blob/master/image/samples.jpg)
+# Results
+We show the ROC curves on PIE and extened Yale B here.
 # More info
 - **Contact**: Please send comments to Lingying Chen (chenly@whut.edu.cn)
