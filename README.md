@@ -11,7 +11,7 @@ We propose a face template protection technique by using multi-label learning, w
 
 ![Image](https://github.com/lyc6749/DLCL/blob/master/image/framework.jpg)
 # Database
-The databases used in the proposed scheme are extended Yale Face Database B and PIE, the samples of the databases and the 
+The databases used in the proposed scheme are [extended Yale Face B](http://vision.ucsd.edu/content/extended-yale-face-database-b-b) and [PIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html) Database, the samples of the databases and the 
 corresponding preprocessed outputs are as following:
 
 ![Image](https://github.com/lyc6749/DLCL/blob/master/image/samples.jpg)
