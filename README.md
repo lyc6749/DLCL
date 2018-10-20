@@ -15,6 +15,8 @@ The databases used in the proposed scheme are [extended Yale Face B](http://visi
 corresponding preprocessed outputs are as following:
 
 ![Image](https://github.com/lyc6749/DLCL/blob/master/image/samples.jpg)
+# LDPC
+We provide some [specific sample data](https://pan.baidu.com/s/19Ej6EwZCIL_MFVjAe6Ohmw) of random binary sequence, LDPC codes, the outputs of CNN and the decoded codes on PIE.
 # Results
 We show the ROC curves on PIE and extened Yale B here.
 
